@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamidreza.ahura.cloud/sitemap.xml
